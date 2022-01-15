@@ -6,7 +6,7 @@
 ## Purpose👩‍🎓👨‍🎓
   This project's purpose was to help me and u for two purposes:
   1. I wanted to get a picture clear clarity on how sorting works.
-  2. Practice my core Java concenpts. 
+  2. Practice my core Java concepts. 
 
   ps: I have Internals cmg up soon :(  and I have 2 major Subjects : Oops in java and DataStructures. So, I thought that combining both concepts and making a project is cool :))
 
@@ -58,6 +58,7 @@ You can now see the comparision between all the sorting algorithms and their spe
   ## Contact me 📲📤
   If u find  any errors in the code, or want to enquire oon how to download, pls don't mind to ping me :))
   my gmail: (satwikakatragadda444@gmail.com)
+
   my Linkedin :https://www.linkedin.com/in/khs4/
  
 
