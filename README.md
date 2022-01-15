@@ -57,10 +57,10 @@ You can now see the comparision between all the sorting algorithms and their spe
   
   ## Contact me 📲📤
   If u find  any errors in the code, or want to enquire oon how to download, pls don't mind to ping me :))
-  my gmail: (satwikakatragadda444@gmail.com)
+ ``` my gmail: (satwikakatragadda444@gmail.com)
 
-  my Linkedin :https://www.linkedin.com/in/khs4/
+    my Linkedin :https://www.linkedin.com/in/khs4/
  
-
+```
 _________________________________________________________________________________________________________________________________________________________________________________
 
