@@ -25,8 +25,6 @@
 
 <p align="left">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/BubbleSort.gif" width="500" title="Final Results">
-</p>
-<p align="left">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastBubble.gif" width="500" title="Final Results">
 </p>
 <p align="left">
