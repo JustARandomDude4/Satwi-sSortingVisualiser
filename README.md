@@ -30,7 +30,8 @@ You can now see the comparision between all the sorting algorithms and their spe
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/BubbleSort.gif" width="500" title="Final Results">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastBubble.gif" width="500" title="Final Results">
 </p> 
-                                          ```🏆🏆Selection Sort    vs     Fast Selection Sort🏆🏆 ```
+
+                                           🏆🏆Selection Sort    vs     Fast Selection Sort🏆🏆 
 <p align="CENTER">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/SelectionSort.gif" width="500" title="Final Results">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastSelectionSort.gif" width="500" title="Final Results">
