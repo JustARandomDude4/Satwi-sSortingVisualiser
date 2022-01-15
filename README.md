@@ -25,19 +25,21 @@
 
 You can now see the comparision between all the sorting algorithms and their speed for the same set of data:
 
-<p align="CENTER">
                                              🏆🏆Bubble Sort       vs     Fast Bubble Sort🏆🏆
-  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/BubbleSort.gif" width="300" title="Final Results">
+<p align="CENTER">
+  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/BubbleSort.gif" width="500" title="Final Results">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastBubble.gif" width="400" title="Final Results">
-<p align="left">
+  
                                              🏆🏆Selection Sort    vs     Fast Selection Sort🏆🏆
-  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/SelectionSort.gif" width="400" title="Final Results">
-  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastSelectionSort.gif" width="400" title="Final Results">
-</p>
 <p align="left">
+  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/SelectionSort.gif" width="500" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastSelectionSort.gif" width="500" title="Final Results">
+</p>
+
                                              🏆🏆Insertion Sort    vs     Merge Sort🏆🏆
-  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/InsertionSort.gif" width="400" title="Final Results">
-  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/MergeSort.gif" width="400" title="Final Results">
+<p align="left">
+  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/InsertionSort.gif" width="500" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/MergeSort.gif" width="500" title="Final Results">
 </p>
 
 
