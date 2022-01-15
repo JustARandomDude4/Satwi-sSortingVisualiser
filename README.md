@@ -28,16 +28,16 @@ You can now see the comparision between all the sorting algorithms and their spe
                                              🏆🏆Bubble Sort       vs     Fast Bubble Sort🏆🏆
 <p align="CENTER">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/BubbleSort.gif" width="500" title="Final Results">
-  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastBubble.gif" width="400" title="Final Results">
+  <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastBubble.gif" width="500" title="Final Results">
   
                                              🏆🏆Selection Sort    vs     Fast Selection Sort🏆🏆
-<p align="left">
+<p align="CENTER">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/SelectionSort.gif" width="500" title="Final Results">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastSelectionSort.gif" width="500" title="Final Results">
 </p>
 
                                              🏆🏆Insertion Sort    vs     Merge Sort🏆🏆
-<p align="left">
+<p align="CENTER">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/InsertionSort.gif" width="500" title="Final Results">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/MergeSort.gif" width="500" title="Final Results">
 </p>
