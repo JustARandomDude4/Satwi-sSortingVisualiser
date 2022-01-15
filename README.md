@@ -25,7 +25,7 @@
 
 You can now see the comparision between all the sorting algorithms and their speed for the same set of data:
 
-<p align="left">
+<p>
                                              🏆🏆Bubble Sort       vs     Fast Bubble Sort🏆🏆
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/BubbleSort.gif" width="400" title="Final Results">
   <img src="https://github.com/JustARandomDude4/Satwi-sSortingVisualiser/blob/main/Resources/FastBubble.gif" width="400" title="Final Results">
